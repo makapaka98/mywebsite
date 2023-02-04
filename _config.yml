@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "martawacirz"
+baseurl: "my-repo-name"
 url: ""
 permalink: pretty
 markdown: kramdown
