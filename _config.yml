@@ -121,7 +121,7 @@ fonts:
   heading: "Merriweather"
   base: "Open Sans"
   monospace: "Fira Mono"
-  logo: "Open Sans"
+  logo: "Merriweather"
 
 logo:
   logo_text: "Marta Wacirz"
@@ -129,10 +129,10 @@ logo:
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "27px"
-  logo_image_desktop_width: "20px"
-  logo_image_mobile_height: "27px"
-  logo_image_mobile_width: "20px"
+  logo_image_desktop_height: "18px"
+  logo_image_desktop_width: "13px"
+  logo_image_mobile_height: "18px"
+  logo_image_mobile_width: "13px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: false
   show_logo_text_on_mobile: false
