@@ -5,7 +5,7 @@ title: "Hello I'm <a href='/contact'>Marta</a>, a creative <strong>marketer</str
 description: "I create ads that convert and design websites that amaze"
 image: "/assets/images/circle.png"
 
-meta_description: "Jekyll Origin is a premium Jekyll blog theme"
+meta_description: "Welcome to my personal website"
 meta_title: Marta Wacirz
 
 posts:
