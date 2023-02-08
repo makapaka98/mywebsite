@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "https://makapaka98.github.io/mywebsite"
+baseurl: "https://makapaka98.github.com/mywebsite"
 url: "https://martawacirz.com"
 permalink: pretty
 markdown: kramdown
