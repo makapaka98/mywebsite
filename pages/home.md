@@ -6,7 +6,7 @@ description: "I create ads that convert and design websites that amaze"
 image: "/assets/images/circle.png"
 
 meta_description: "Jekyll Origin is a premium Jekyll blog theme"
-meta_title: MW
+meta_title: Marta Wacirz
 
 posts:
   heading: "Latest Posts"
