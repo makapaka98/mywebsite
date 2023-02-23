@@ -3,7 +3,7 @@ layout: home
 permalink: "/"
 title: "Hello I'm <a href='/contact'>Marta</a>, a creative <strong>marketer</strong> and <em>designer</em>."
 description: "I create ads that convert and design websites that amaze"
-image: "/assets/images/35CA9D6B-369C-4089-89E0-527D7923A620.JPG"
+image: "/assets/images/me.JPG"
 
 meta_description: "Welcome to my personal website"
 meta_title: Marta Wacirz
