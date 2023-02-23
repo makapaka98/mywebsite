@@ -125,10 +125,10 @@ fonts:
 
 logo:
   logo_text: "Marta Wacirz"
-  logo_image: assets/images/logo/Frame 2.png
-  logo_image_mobile: assets/images/logo/Frame 2.png
-  logo_image_invert: assets/images/logo/Frame 2.png
-  logo_image_invert_mobile: assets/images/logo/Frame 2.png
+  logo_image: assets/images/logo/waaves.png
+  logo_image_mobile: assets/images/logo/waaves.png
+  logo_image_invert: assets/images/logo/waaves.png
+  logo_image_invert_mobile: assets/images/logo/waaves.png
   logo_image_desktop_height: "60px"
   logo_image_desktop_width: "60px"
   logo_image_mobile_height: "60px"
