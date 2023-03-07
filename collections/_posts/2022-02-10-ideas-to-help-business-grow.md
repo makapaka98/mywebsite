@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Ideas to help your business grow"
-date: 2022-02-11T16:49:03Z
-authors: ["Marc Paulo", "Alec Mendez"]
-categories: ["Branding", "Marketing"]
+title: "E-commerce app UI"
+date: 2023-03-07T11:49:03Z
+categories: ["UI", "UX"]
 description: "Branding is an intrinsic part of your companies success, learn why your brand matters. A brand is a name, term, design, symbol or any other feature that distinguishes one seller's good or service from those of other sellers."
 thumbnail: "/assets/images/gen/blog/blog-17-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-17.webp"
