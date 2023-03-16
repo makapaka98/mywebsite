@@ -5,8 +5,8 @@ date: 2023-03-13T09:49:03Z
 authors: ["Marta Wacirz"]
 categories: ["UX", "UI"]
 description: Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow internet connections and those on mobile devices.
-thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-18.webp"
+thumbnail: "/assets/images/ecom.png"
+image: "/assets/images/ecom.png"
 comments: true
 ---
 
