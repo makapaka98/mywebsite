@@ -1,12 +1,12 @@
 ---
 layout: post-3
-title: "Working With Jekyll"
+title: "One month in Florianopolis Brazil as a digital nomad"
 date: 2021-07-23
 authors: ["Marta Wacirz"]
 categories: ["Travel"]
-description: "One month in Florianopolis, Brazil as a digital nomad"
-thumbnail: "/assets/images/floripa.png"
-image: "/assets/images/floripa.png"
+description: "My experience working remotely in Florianopolis for a month"
+thumbnail: "/assets/images/IMG_8876.png"
+image: "/assets/images/IMG_8876.png"
 weight: 1
 ---
 
