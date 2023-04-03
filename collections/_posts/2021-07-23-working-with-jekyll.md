@@ -4,8 +4,8 @@ title: "One month in Florianopolis, Brazil as a digital nomad"
 date: 2021-07-23
 categories: ["Travel" "Brazil" "remote work"]
 description: "A month of remote work in Brazil, Florianopolis"
-thumbnail: "/assets/images/IMG_8876.png"
-image: "/assets/images/IMG_8876.png"
+thumbnail: "/assets/images/floripa.png"
+image: "/assets/images/floripa.png"
 weight: 1
 ---
 
