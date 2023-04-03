@@ -2,11 +2,11 @@
 layout: post-3
 title: "Working With Jekyll"
 date: 2021-07-23
-authors: ["Mike Vance"]
-categories: ["Product"]
-description: "Branding is an intrinsic part of your companies success, learn why your brand matters. A brand is a name, term, design, symbol or any other feature that distinguishes one seller's good or service from those of other sellers."
-thumbnail: "/assets/images/gen/blog/blog-15-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-15.webp"
+authors: ["Marta Wacirz"]
+categories: ["Travel"]
+description: "One month in Florianopolis, Brazil as a digital nomad"
+thumbnail: "/assets/images/floripa.HEIC"
+image: "/assets/images/floripa.HEIC"
 weight: 1
 ---
 
