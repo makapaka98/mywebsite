@@ -2,6 +2,7 @@
 layout: post-3
 title: "One month in Florianopolis, Brazil as a digital nomad"
 date: 2023-04-03
+author: "Marta Wacirz"
 categories: ["Travel" "Brazil" "remote work"]
 description: "A month of remote work in Brazil, Florianopolis"
 thumbnail: "/assets/images/floripa.png"
