@@ -5,8 +5,8 @@ date: 2021-07-23
 authors: ["Marta Wacirz"]
 categories: ["Travel"]
 description: "One month in Florianopolis, Brazil as a digital nomad"
-thumbnail: "/assets/images/floripa.HEIC"
-image: "/assets/images/floripa.HEIC"
+thumbnail: "/assets/images/floripa.png"
+image: "/assets/images/floripa.png"
 weight: 1
 ---
 
