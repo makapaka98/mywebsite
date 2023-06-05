@@ -4,7 +4,7 @@ title: "I spent one month in Rio de Janeiro"
 date: 2023-06-05
 author: "Marta Wacirz"
 categories: ["Travel", "Brazil", "remote work", "Rio de Janeiro"]
-description: "If you're looking for the tips on Rio de Janeiro, check this out"
+description: "Cidade Maravilhosa - my loose thoughts, some (maybe) useful tips, and insights to help you navigate the city"
 thumbnail: "/assets/images/rio.jpg"
 image: "/assets/images/rio.jpg"
 weight: 1
