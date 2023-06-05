@@ -1,10 +1,10 @@
 ---
 layout: post-3
-title: "I spent one month in Florianopolis, Brazil"
+title: "Florianopolis: A Sports Lover's Paradise in Brazil"
 date: 2023-04-03
 author: "Marta Wacirz"
 categories: ["Travel", "Brazil", "remote work", "Florianopolis"]
-description: "If you're looking for some tips on Floripa, this is for you"
+description: "10 irresistible reasons for outdoor sports junkies to head to Florianopolis"
 thumbnail: "/assets/images/florianopolis.jpg"
 image: "/assets/images/florianopolis.jpg"
 weight: 1
