@@ -3,7 +3,7 @@ layout: post-3
 title: "I spent one month in Rio de Janeiro"
 date: 2023-06-05
 author: "Marta Wacirz"
-categories: ["Travel", "Brazil", "remote work", "Rio de Janeiro"]
+categories: ["Travel", "Brazil", "Rio de Janeiro"]
 description: "Cidade Maravilhosa - my loose thoughts, some (maybe) useful tips, and insights to help you navigate the city."
 thumbnail: "/assets/images/rio.jpg"
 image: "/assets/images/rio.jpg"
