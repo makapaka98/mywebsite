@@ -28,5 +28,11 @@ Florianopolis is famous as a fantastic place for kitesurfing, and it gives enthu
 
 The island is home to some of Brazil's top surfing spots, attracting surfers from around the world. Head to renowned beaches like Praia Mole, Joaquina, and Campeche, where consistent waves and excellent breaks create an amazing surfing experience. Whether you're a seasoned pro or a novice looking to catch your first wave, Florianopolis offers world-class surf conditions.
 
+4. Futvolei Classes
 
+Futvolei, a popular Brazilian sport that combines elements of soccer and beach volleyball, has a strong presence in Florianopolis. The island makes it so easy to get into the action and learn this sport, plus, it's a great way to meet locals. 
+
+5. Altinha
+
+Altinha, a freestyle game where players keep a small ball in the air using only their feet, is another beloved beach activity in Florianopolis. It's like a more beginner-friendly version of Futvolei, without a net, where people just pass a ball to each other using not only thei feet but also arms and the head (no arms allowed, which is so challenging, especially if you play volleyball). 
 
