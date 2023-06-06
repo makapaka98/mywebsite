@@ -8,4 +8,8 @@ description:
 image: "/assets/images/eye.png"
 ---
 
-I'm a beginner web/mobile app designer and an experienced performance marketer. I'm particularly experienced in running Facebook, Google Ads campaigns and affiliate marketing. 
+Hello stranger! Welcome to my personal website :)
+
+I'm a passionate digital marketer with extensive experience in affiliate marketing for e-commerce and mobile marketing, specifically user acquisition for mobile apps. I have a deep interest in web analytics and designing exceptional user experiences. I believe that web analytics and designing user experience are closely intertwined and play crucial roles in creating successful online experiences.
+
+Join me as I share my insights and personal thoughts on digital marketing strategies, web analytics, and user experience design. 
