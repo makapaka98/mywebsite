@@ -4,7 +4,7 @@ title: "Florianopolis: a sports lover's paradise in Brazil"
 date: 2023-04-03
 author: "Marta Wacirz"
 categories: ["Travel", "Brazil", "Florianopolis"]
-description: "10 irresistible reasons for outdoor sports junkies to head to Florianopolis"
+description: "5 irresistible reasons for outdoor sports junkies to head to Florianopolis"
 thumbnail: "/assets/images/florianopolis.jpg"
 image: "/assets/images/florianopolis.jpg"
 weight: 1
