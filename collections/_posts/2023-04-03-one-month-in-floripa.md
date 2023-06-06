@@ -1,6 +1,6 @@
 ---
 layout: post-3
-title: "Florianopolis: A sports lover's paradise in Brazil"
+title: "Florianopolis: a sports lover's paradise in Brazil"
 date: 2023-04-03
 author: "Marta Wacirz"
 categories: ["Travel", "Brazil", "Florianopolis"]
