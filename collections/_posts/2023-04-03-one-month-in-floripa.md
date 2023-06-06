@@ -14,7 +14,7 @@ weight: 1
 
 Florianopolis, known as Floripa by the locals, is situated in the southern part of Brazil on the island of Santa Catarina. It has emerged as an excellent destination for digital nomads. For those who need to adhere to a specific time zone due to work, Floripa is only 4 hours behind most European time zones and just 1 hour behind EST, making it a convenient choice for individuals working with teams based in the US and Europe.
 
-For anyone who loves spots that are "easy" for doing outdoor sports, here are 10 reasons why you should book your flight to Florianopolis right now!
+For anyone who loves spots that are "easy" for doing outdoor sports, here are 5 reasons why you should book your flight to Florianopolis right now!
 
 1. Running trails
 
