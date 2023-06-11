@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Marta</a>, a creative <strong>marketer</strong> and <em>designer</em>."
-description: "I create ads that convert and design websites that amaze"
+title: "Hello I'm <a href='/contact'>Marta</a>, a <strong>marketer</strong> and <em>designer</em>."
+description: "I blend data-driven strategies with compelling designs, creating engaging brand journeys. "
 image: "/assets/images/final.png"
 
 meta_description: "Welcome to my personal website"
