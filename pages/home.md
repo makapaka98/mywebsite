@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Marta</a>, a <strong>marketer</strong> and <em>designer</em>."
+title: "Hello I'm <a href='/contact'>Marta</a>, an <strong>affiliate marketing specialist.<strong>"
 description: "I connect businesses with customers and enhance online experiences through improved website design. "
 image: "/assets/images/mart.png"
 
