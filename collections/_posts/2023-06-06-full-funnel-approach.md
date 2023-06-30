@@ -1,6 +1,6 @@
 ---
 layout: post-3
-title: "Why the full funnel approach in your brand's media is essential"
+title: "Why the full-funnel approach in your brand's media mix is essential"
 date: 2023-06-06
 author: "Marta Wacirz"
 categories: ["full funnel", "media buying", "marketing"]
@@ -12,9 +12,9 @@ weight: 1
 
 <b>Understanding the Full Funnel Approach<b>
 
-Let's start with explaining what do I mean by the full funnel approach. It is a comprehensive marketing strategy that considers every step of the customer journey, from initial brand awareness to the ultimate purchase decision and beyond. It acknowledges that customers engage with multiple touchpoints and experiences before committing to a purchase, and its objective is to optimize each stage of the funnel to boost conversions and foster lasting customer connections.
+Let's start by explaining what I mean by the full-funnel approach. It is a comprehensive marketing strategy that considers every step of the customer journey, from initial brand awareness to the ultimate purchase decision and beyond. It acknowledges that customers engage with multiple touchpoints and experiences before committing to a purchase, and its objective is to optimize each stage of the funnel to boost conversions and foster lasting customer connections.
 
-<b>Examples of the top funnel marketing actions, that can help you drive brand's awareness: <b>
+<b>Examples of the top funnel marketing actions, that can help you drive brand awareness: <b>
 
 <b>Content Marketing: <b> Create and distribute high-quality and informative content such as blog posts, articles, videos, and infographics. This content should resonate with your target audience and provide value, establishing your brand as a knowledgeable industry authority.
 
