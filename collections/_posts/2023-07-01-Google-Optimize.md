@@ -4,7 +4,7 @@ title: "Google Optimize for effective A/B Testing"
 date: 2023-07-01
 author: "Marta Wacirz"
 categories: ["Google Optimize", "A/B testing"]
-description: "Data-backed design decision with Google Optimize"
+description: "How to make data-backed design decision with Google Optimize (step-by-step)"
 thumbnail: "/assets/images/optimize.jpg"
 image: "/assets/images/optimize.jpg"
 weight: 1
