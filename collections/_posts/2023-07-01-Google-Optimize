@@ -1,0 +1,13 @@
+---
+layout: post-3
+title: "Google Optimize for effective A/B Testing"
+date: 2023-06-30
+author: "Marta Wacirz"
+categories: ["Google Optimize", "A/B testing"]
+description: "Data-backed design decision with Google Optimize"
+thumbnail: "/assets/images/optimize.jpg"
+image: "/assets/images/optimize.jpg"
+weight: 1
+---
+
+A/B testing involves comparing two versions of a webpage (A and B) to determine which one performs better in terms of user engagement, conversions, or other predefined goals. By randomly splitting your website traffic between the two versions, you can gather data and make informed decisions about which variant drives the desired outcomes. To begin the A/B testing journey, you'll need to set up an account with Google Optimize. If you already have a Google Analytics account, you can easily integrate Optimize with it. Once set up, you can create experiments and start optimizing your website.
