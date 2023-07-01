@@ -27,3 +27,11 @@ A/B testing involves comparing two versions of a webpage (A and B) to determine 
    - average time on page - measures the average time visitors spend on a product page
   
    - conversion rate - while the primary goal of this experiment is to increase the CTR, it's also important to keep an eye on the conversion rate (always, lol). Conversion rate represents the percentage of visitors who complete a desired action, such as making a purchase, after clicking on a product link from the category page. By tracking the conversion rate, you can assess the impact of the category page variations on driving actual conversions.
+  
+4. Start the experiment: Launch the experiment and let it run for a sufficient period to gather statistically significant data. Google Optimize automatically splits the traffic between the different variations and collects data on user interactions.
+
+5. Monitor and analyze results: Regularly monitor the experiment's progress in the Google Optimize dashboard. Once you have collected enough data, analyze the results to understand how each variation performs against your objectives and metrics. Use the statistical significance indicators to determine if the results are reliable.
+
+6. Implement the winning variation: Based on the results, identify the winning variation that performs best according to your objectives. Implement the changes on your live website to improve the user experience and achieve your goals.
+
+7. Iterate and optimize: The process doesn't end with a single experiment. Use the insights gained from the experiment to inform further design decisions and conduct additional experiments to continuously optimize your website.
