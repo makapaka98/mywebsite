@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Marta</a>, and I help <strong>brands</strong> build & grow their affiliate programs. <em></em>."
+title: "Hello I'm <a href='/contact'>Marta</a>, and I help <strong>brands</strong> build & grow their affiliate programs. <em></em>"
 description: "Specializing in building and scaling affiliate programs for ecommerce brands, I help businesses grow through strategic partnerships and effective marketing."
 image: "/assets/images/this.png"
 
