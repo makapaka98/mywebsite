@@ -5,8 +5,8 @@ date: 2023-12-27
 author: "Marta Wacirz"
 categories: ["affiliate marketing", "e-commerce"]
 description: "How to make data-backed design decision with Google Optimize (step-by-step)"
-thumbnail: "/assets/images/optimize.jpg"
-image: "/assets/images/optimize.jpg"
+thumbnail: "/assets/images/heh.jpg"
+image: "/assets/images/heh.jpg"
 weight: 1
 ---
 
