@@ -33,10 +33,10 @@ Evaluate whether your brand can handle increased customers and orders resulting 
 Survey your industry and competitors. If affiliate marketing is common in your niche, it could be a positive indicator. Conversely, if it's uncommon, launching an affiliate program might set your brand apart.
 
 <b>Additional Considerations</b>
-<b>Brand Recognition</b>
+<b>Brand Recognition</b><br>
 A successful affiliate program is often enhanced by existing brand recognition. The more established your brand, the more enticing it is for potential affiliates.
 
-<b>Customer Retention</b>
+<b>Customer Retention</b><br>
 Consider the nature of your products and the likelihood of repeat purchases. Brands with products that encourage repeat business, like consumables or items with a shorter lifecycle, are often better suited for successful affiliate programs.
 
 
