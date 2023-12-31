@@ -4,7 +4,7 @@ title: "Is affiliate marketing right for your brand?"
 date: 2023-12-27
 author: "Marta Wacirz"
 categories: ["affiliate marketing", "e-commerce"]
-description: ""
+description: "Decide if an affiliate program is right for your brand by checking if it fits your product, brand, and growth goals."
 thumbnail: "/assets/images/heh.jpg"
 image: "/assets/images/heh.jpg"
 weight: 1
