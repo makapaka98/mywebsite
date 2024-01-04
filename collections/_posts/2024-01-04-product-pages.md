@@ -3,8 +3,8 @@ layout: post-3
 title: "Making product pages work better for affiliates"
 date: 2024-01-04
 author: "Marta Wacirz"
-categories: ["affiliate marketing", "e-commerce" "CRO"]
-description: "Decide if an affiliate program is right for your brand by checking if it fits your product, brand, and growth goals."
+categories: ["affiliate marketing", "e-commerce", "CRO"]
+description: 
 thumbnail: "/assets/images/heh.jpg"
 image: "/assets/images/heh.jpg"
 weight: 1
