@@ -5,8 +5,8 @@ date: 2024-01-04
 author: "Marta Wacirz"
 categories: ["affiliate marketing", "e-commerce", "CRO"]
 description: 
-thumbnail: "/assets/images/heh.jpg"
-image: "/assets/images/heh.jpg"
+thumbnail: "/assets/images/bottle.jpg"
+image: "/assets/images/bottle.jpg"
 weight: 1
 ---
 Let's talk about a crucial aspect of boosting your affiliate marketing efforts – optimizing your product pages. This isn't just a little tweak; it's a strategic move to make your pages more affiliate-friendly and increase those conversion rates.
