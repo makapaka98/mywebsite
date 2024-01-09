@@ -4,7 +4,7 @@ title: "Boosting e-commerce sales through building community"
 date: 2024-01-09
 author: "Marta Wacirz"
 categories: ["community building", "e-commerce"]
-description: "Practical tips for increasing sales and expanding brand awareness through building commmunity"
+description: "Practical tips for increasing sales and expanding brand awareness through building commmunity."
 thumbnail: "/assets/images/community.jpg"
 image: "/assets/images/community.jpg"
 weight: 1
