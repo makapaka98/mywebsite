@@ -6,8 +6,8 @@ main:
     url: /blog/
     weight: 2
     
-  - name: About
-    url: /about/
+  - name: Services
+    url: /services/
     weight: 3
   - name: Contact
     url: /contact/
