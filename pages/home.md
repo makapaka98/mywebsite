@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "I grow e-com & tech companies profitably with performance marketing. ✌️"
+title: "I'm <a href='/contact'>Marta</a>, and I grow <strong>e-com & tech companies</strong> profitably with affiliate marketing and paid ads. ✌️"
 description: "I build and grow affiliate programs for ecommerce brands, helping businesses expand through smart partnerships and effective marketing."
 image: "/assets/images/this.png"
 
