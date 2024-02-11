@@ -143,7 +143,7 @@ menu:
   show_social_media_in_mobile_menu: true
 
 header: 
-  fixed: false
+  fixed: true
 
 footer:
   enable_footer: true # show/hide the entire footer
