@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "I'm <a href='/contact'>Marta</a>, and I grow <strong>e-com & tech companies</strong> profitably with affiliate marketing and paid ads. ✌️"
-description: "👉 affiliate marketing <br>👉 paid media <br>👉creative strategy"
+description: "👉 &nbsp;affiliate marketing <br>👉&nbsp; paid media <br>👉&nbsp;creative strategy"
 image: "/assets/images/this.png"
 
 meta_description: "Welcome to my personal website"
