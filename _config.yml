@@ -95,7 +95,7 @@ darkmode:
 
 colors:
   #light-mode colors
-  primary: "#FF8080"
+  primary: "#EC255A"
   primary_2: "#eed2d9"
   primary_text: "#f9fafb"
   background: "#ffffff"
