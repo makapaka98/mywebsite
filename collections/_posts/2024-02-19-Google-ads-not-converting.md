@@ -5,8 +5,8 @@ date: 2024-02-19
 author: "Marta Wacirz"
 categories: ["Google ads", "e-commerce", "adwords"]
 description: "Practical tips for increasing sales and expanding brand awareness through building commmunity."
-thumbnail: "/assets/images/community.jpg"
-image: "/assets/images/community.jpg"
+thumbnail: "/assets/images/gads.jpg"
+image: "/assets/images/gads.jpg"
 weight: 1
 ---
 
