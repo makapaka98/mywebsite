@@ -4,7 +4,7 @@ title: "10 reasons why your Google Ads might not be converting"
 date: 2024-02-19
 author: "Marta Wacirz"
 categories: ["Google ads", "e-commerce", "adwords"]
-description: "Practical tips for increasing sales and expanding brand awareness through building commmunity."
+description: "Ever wondered why your Google Ads don't convert as expected? Check out the 10 most common reasons!"
 thumbnail: "/assets/images/gads.jpg"
 image: "/assets/images/gads.jpg"
 weight: 1
