@@ -85,7 +85,7 @@ mailchimp:
 contact_form: 
   use_netlify_form: true
   use_formspree_form: false
-  formspree_endpoint: https://formspree.io/f/moqyklqv
+  formspree_endpoint: https://formspree.io/f/xgegkbwp
 
 darkmode:
   enable_dark_mode: true
