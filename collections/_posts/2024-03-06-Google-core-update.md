@@ -5,8 +5,8 @@ date: 2024-03-06
 author: "Marta Wacirz"
 categories: ["SEO", "Google algorithm"]
 description: "Google is releasing new search and search quality and spam updates. See how this might affect your website visibility"
-thumbnail: "/assets/images/gads.jpg"
-image: "/assets/images/gads.jpg"
+thumbnail: "/assets/images/SEO.jpg"
+image: "/assets/images/SEO.jpg"
 weight: 1
 ---
 Google recently launched its first core update of the year, the March 2024 core update, aiming to reduce unhelpful content in search results by 40%. Elizabeth Tucker, Director of Product, Search at Google, highlighted that this update is more complex than previous ones, involving changes to multiple core systems. The rollout may take up to a month as various systems undergo updates.
