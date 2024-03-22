@@ -1,7 +1,7 @@
 ---
 layout: post-3
 title: "TM+ partnerships"
-date: 2024-03-06
+date: 2024-03-22
 author: "Marta Wacirz"
 categories: ["TM+", "PPC", "affiliate marketing"]
 description: "Why you might want to consider TM+ partners in your affiliate program"
