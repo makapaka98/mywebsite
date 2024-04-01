@@ -1,10 +1,10 @@
 ---
 layout: post-3
-title: "Digital PR"
+title: "Performance PR"
 date: 2024-04-01
 author: "Marta Wacirz"
 categories: ["PR", "performance PR", "Digital PR"]
-description: "Why you might want to consider TM+ partners in your affiliate program"
+description: "Exploring the practicality of Performance PR and the SEO benefits of Digital PR"
 thumbnail: "/assets/images/PR.jpg"
 image: "/assets/images/PR.jpg"
 weight: 1
