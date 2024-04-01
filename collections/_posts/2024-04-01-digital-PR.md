@@ -5,8 +5,8 @@ date: 2024-04-01
 author: "Marta Wacirz"
 categories: ["PR", "performance PR", "Digital PR"]
 description: "Why you might want to consider TM+ partners in your affiliate program"
-thumbnail: "/assets/images/news.jpg"
-image: "/assets/images/news.jpg"
+thumbnail: "/assets/images/PR.jpg"
+image: "/assets/images/PR.jpg"
 weight: 1
 ---
 
