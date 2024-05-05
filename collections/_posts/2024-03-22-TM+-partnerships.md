@@ -1,6 +1,6 @@
 ---
 layout: post-3
-title: "TM+ partnerships"
+title: "Trademarked (TM+) partnerships within your affiliate program"
 date: 2024-03-22
 author: "Marta Wacirz"
 categories: ["TM+", "PPC", "affiliate marketing"]
