@@ -1,6 +1,6 @@
 ---
 layout: post-3
-title: "I tried to build a tech start-up and failed. Here is what I learned"
+title: "I tried to build a tech startup and failed. Here is what I learned"
 date: 2024-05-05
 author: "Marta Wacirz"
 categories: ["VC", "start-up", "tech"]
