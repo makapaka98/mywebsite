@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "I'm <a href='/contact'>Marta</a>, and I grow <strong>e-com & tech companies</strong> profitably with affiliate marketing and paid ads. 🚀"
+title: "I'm <a href='/contact'>Marta</a>, and I grow <strong>e-com & tech companies</strong> profitably with affiliate marketing. 🚀"
 description: "👉 &nbsp;<a href='https://martawacirz.com/blog/2023-12-27-affiliate-marketing-for-DTC-brand/'>affiliate marketing</a><br> 👉&nbsp;<a href='https://martawacirz.com/blog/2024-04-01-digital-PR/'> performance PR</a>"
 image: "/assets/images/mockup.png"
 
