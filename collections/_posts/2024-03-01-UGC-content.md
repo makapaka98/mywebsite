@@ -6,7 +6,7 @@ author: "Marta Wacirz"
 categories: ["UGC", "affiliate"]
 description: "Leveraging User-Generated Content (UGC) can enhance brand trust, reduce marketing costs, and drive customer engagement and sales."
 thumbnail: "/assets/images/unboxing.jpg"
-image: "/assets/images/gads.jpg"
+image: "/assets/images/unboxing.jpg"
 weight: 1
 ---
 
