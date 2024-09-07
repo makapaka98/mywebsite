@@ -1,7 +1,7 @@
 ---
 layout: post-3
 title: "Bitcoin real life use cases"
-date: 2024-04-01
+date: 2024-09-07
 author: "Marta Wacirz"
 categories: ["bitcoin", "blockchain"]
 description: "How Bitcoin solves real-world problems like cross-border payments and financial inclusion."
