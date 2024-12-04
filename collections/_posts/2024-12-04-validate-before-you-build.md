@@ -5,8 +5,8 @@ date: 2024-12-04
 author: "Marta Wacirz"
 categories: ["products", "idea validation"]
 description: "If you fail, fail fast."
-thumbnail: "/assets/images/bitcoin.jpg"
-image: "/assets/images/bitcoin.jpg"
+thumbnail: "/assets/images/validate.jpg"
+image: "/assets/images/validate.jpg"
 weight: 1
 ---
 
